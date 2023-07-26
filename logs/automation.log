@@ -1,0 +1,95 @@
+21:28:54.753 [main] INFO  testCases.SignInTest - **Logging is started**
+21:28:58.085 [main] INFO  testCases.SignInTest - Clicked on Signin button in Main page
+21:28:59.823 [main] INFO  testCases.SignInTest - Clicked on continue button
+21:29:03.415 [main] INFO  testCases.SignInTest - Clicked on sign in button
+23:03:03.835 [main] INFO  testCases.SignInTest - **Logging is started**
+23:03:06.586 [main] INFO  testCases.SignInTest - Clicked on Signin button in Main page
+23:03:12.589 [main] INFO  testCases.SignInTest - Clicked on continue button
+23:03:17.466 [main] INFO  testCases.SignInTest - Clicked on sign in button
+23:03:17.517 [main] INFO  testCases.SignInTest - **Logging is completed**
+23:16:39.985 [main] INFO  testCases.SignInTest - **Logging is started**
+23:16:42.976 [main] INFO  testCases.SignInTest - Clicked on Signin button in Main page
+23:16:45.505 [main] INFO  testCases.SignInTest - Clicked on continue button
+23:16:45.605 [main] INFO  testCases.SignInTest - Clicked on sign in button
+23:16:45.606 [main] INFO  testCases.SignInTest - **Logging is completed**
+23:17:20.403 [main] INFO  testCases.SignInTest - **Logging is started**
+23:17:24.060 [main] INFO  testCases.SignInTest - Clicked on Signin button in Main page
+23:17:32.159 [main] INFO  testCases.SignInTest - Clicked on continue button
+23:17:32.518 [main] INFO  testCases.SignInTest - Clicked on sign in button
+23:17:32.518 [main] INFO  testCases.SignInTest - **Logging is completed**
+23:38:25.979 [main] INFO  testCases.SignInTest - **Logging is started**
+23:38:29.408 [main] INFO  testCases.SignInTest - Clicked on Signin button in Main page
+23:38:32.828 [main] INFO  testCases.SignInTest - Clicked on continue button
+23:38:33.020 [main] INFO  testCases.SignInTest - Clicked on sign in button
+23:38:33.020 [main] INFO  testCases.SignInTest - **Logging is completed**
+23:53:14.351 [main] INFO  testCases.SignInTest - **Logging is started**
+23:53:18.530 [main] INFO  testCases.SignInTest - Clicked on Signin button in Main page
+23:53:20.745 [main] INFO  testCases.SignInTest - Clicked on continue button
+23:53:22.297 [main] INFO  testCases.SignInTest - Clicked on sign in button
+23:53:22.297 [main] INFO  testCases.SignInTest - **Logging is completed**
+23:54:51.882 [main] INFO  testCases.SignInTest - **Logging is started**
+23:55:06.652 [main] INFO  testCases.SignInTest - Clicked on Signin button in Main page
+23:55:11.245 [main] INFO  testCases.SignInTest - Clicked on continue button
+23:55:11.332 [main] INFO  testCases.SignInTest - Clicked on sign in button
+23:55:11.333 [main] INFO  testCases.SignInTest - **Logging is completed**
+23:56:55.265 [main] INFO  testCases.SignInTest - **Logging is started**
+23:56:58.111 [main] INFO  testCases.SignInTest - Clicked on Signin button in Main page
+23:57:00.968 [main] INFO  testCases.SignInTest - Clicked on continue button
+22:08:00.030 [main] INFO  testCases.SignInTest - **Logging is started**
+22:08:08.534 [main] INFO  testCases.SignInTest - Clicked on Signin button in Main page
+22:08:12.476 [main] INFO  testCases.SignInTest - Clicked on continue button
+22:08:12.919 [main] INFO  testCases.SignInTest - Clicked on sign in button
+22:08:12.919 [main] INFO  testCases.SignInTest - **Logging is completed**
+22:08:35.402 [main] INFO  testCases.SignInTest - **Logging is started**
+22:08:37.850 [main] INFO  testCases.SignInTest - Clicked on Signin button in Main page
+22:08:40.681 [main] INFO  testCases.SignInTest - Clicked on continue button
+22:08:40.881 [main] INFO  testCases.SignInTest - Clicked on sign in button
+22:08:40.881 [main] INFO  testCases.SignInTest - **Logging is completed**
+22:49:40.548 [main] INFO  testCases.SignInTest - **Logging is started**
+22:49:42.362 [main] INFO  testCases.SignInTest - Clicked on Signin button in Main page
+22:49:45.218 [main] INFO  testCases.SignInTest - Clicked on continue button
+22:49:45.469 [main] INFO  testCases.SignInTest - Clicked on sign in button
+22:49:45.469 [main] INFO  testCases.SignInTest - **Logging is completed**
+22:50:13.602 [main] INFO  testCases.SearchBox - *** Logging is started ***
+22:52:24.401 [main] INFO  testCases.SignInTest - **Logging is started**
+22:52:27.156 [main] INFO  testCases.SignInTest - Clicked on Signin button in Main page
+22:52:29.500 [main] INFO  testCases.SignInTest - Clicked on continue button
+22:52:29.680 [main] INFO  testCases.SignInTest - Clicked on sign in button
+22:52:29.681 [main] INFO  testCases.SignInTest - **Logging is completed**
+22:52:42.505 [main] INFO  testCases.SearchBox - *** Logging is started ***
+22:52:49.578 [main] INFO  testCases.SearchBox - **Logging is started**
+22:52:51.513 [main] INFO  testCases.SearchBox - Clicked on Signin button in Main page
+22:52:52.867 [main] INFO  testCases.SearchBox - Clicked on continue button
+22:52:53.040 [main] INFO  testCases.SearchBox - Clicked on sign in button
+22:52:53.040 [main] INFO  testCases.SearchBox - **Logging is completed**
+22:56:26.222 [main] INFO  testCases.SearchBox - **Logging is started**
+22:56:27.634 [main] INFO  testCases.SearchBox - Clicked on Signin button in Main page
+22:56:30.107 [main] INFO  testCases.SearchBox - Clicked on continue button
+22:56:30.368 [main] INFO  testCases.SearchBox - Clicked on sign in button
+22:56:30.368 [main] INFO  testCases.SearchBox - **Logging is completed**
+22:56:30.387 [main] INFO  testCases.SearchBox - *** Logging is started ***
+22:42:49.458 [main] INFO  testCases.LoginDataDrivenTest - ***Logging is started***
+22:42:49.473 [main] INFO  testCases.LoginDataDrivenTest - Opening Amazon Mail Page
+22:42:50.640 [main] INFO  testCases.LoginDataDrivenTest - Signing into the account
+22:43:26.099 [main] INFO  testCases.LoginDataDrivenTest - ***Logging is started***
+22:43:26.099 [main] INFO  testCases.LoginDataDrivenTest - Opening Amazon Mail Page
+22:48:04.814 [main] INFO  testCases.LoginDataDrivenTest - ***Logging is started***
+22:48:04.817 [main] INFO  testCases.LoginDataDrivenTest - Opening Amazon Mail Page
+22:48:05.906 [main] INFO  testCases.LoginDataDrivenTest - Signing into the account
+22:48:11.355 [main] INFO  testCases.LoginDataDrivenTest - ***Logging is started***
+22:48:11.356 [main] INFO  testCases.LoginDataDrivenTest - Opening Amazon Mail Page
+22:55:42.991 [main] INFO  testCases.LoginDataDrivenTest - ***Logging is started***
+22:55:42.993 [main] INFO  testCases.LoginDataDrivenTest - Opening Amazon Mail Page
+22:55:44.548 [main] INFO  testCases.LoginDataDrivenTest - Signing into the account
+22:55:50.382 [main] INFO  testCases.LoginDataDrivenTest - ***Logging is started***
+22:55:50.382 [main] INFO  testCases.LoginDataDrivenTest - Opening Amazon Mail Page
+23:09:42.932 [main] INFO  testCases.LoginDataDrivenTest - ***Logging is started***
+23:09:42.951 [main] INFO  testCases.LoginDataDrivenTest - Opening Amazon Mail Page
+23:09:44.752 [main] INFO  testCases.LoginDataDrivenTest - Signing into the account
+23:10:00.479 [main] INFO  testCases.LoginDataDrivenTest - ***Logging is started***
+23:10:00.479 [main] INFO  testCases.LoginDataDrivenTest - Opening Amazon Mail Page
+23:10:10.985 [main] INFO  testCases.LoginDataDrivenTest - ***Logging is started***
+23:10:10.985 [main] INFO  testCases.LoginDataDrivenTest - Opening Amazon Mail Page
+22:09:57.014 [main] INFO  testCases.LoginDataDrivenTest - ***Logging is started***
+22:09:57.046 [main] INFO  testCases.LoginDataDrivenTest - Opening Amazon Mail Page
+22:11:08.600 [main] INFO  testCases.LoginDataDrivenTest - Signing into the account
